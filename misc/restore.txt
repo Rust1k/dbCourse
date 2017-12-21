@@ -3,4 +3,4 @@ psql -> CREATE DATABASE dvdrental;
 cmd
 cd C:\Program Files\PostgreSQL\9.6\bin\
 
-pg_restore -U potsgres -d dvdrental C:\tmp\dvdrental.tar
+pg_restore -U postgres -d dvdrental C:\tmp\dvdrental.tar
