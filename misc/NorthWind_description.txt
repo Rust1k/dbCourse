@@ -1,0 +1,14 @@
+Описание таблиц:
+
+categories	- категории продуктов		
+customers - покупатели
+employee_territories - связь сотрудников и территории их работы
+employees - сотрудники		
+order_details - детали о заказах
+orders - заказы
+products - продукты
+region - области	
+shippers - варианты доставки
+suppliers - поставщики
+territories - территории
+us_states - штаты США
